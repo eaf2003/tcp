@@ -8,7 +8,7 @@ $> python tcppp7.py
 Ernst tcpdump task
 SETTINGS: timeout= 10 iface= wlan1 top= 10
 [sudo] password for pepe:
->Receiving 598 Lines
+Receiving 598 Lines
 Show top  10 IPs
 1 :	  578:	 192.168.0.12
 2 :	  496:	 176.22.242.83
